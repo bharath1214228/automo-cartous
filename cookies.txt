@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo2.themelexus.com	TRUE	/carutos/	FALSE	1999999999	yith_wcwl_session_c86df80360d7581c60e4eb8e561c666e	%7B%22session_id%22%3A%220f1fb7903513efb702af4e348f75f7e8%22%2C%22session_expiration%22%3A1669464330%2C%22session_expiring%22%3A1669460730%2C%22cookie_hash%22%3A%2205cd631af585a8eaa152bd198cfbf8be%22%7D
+

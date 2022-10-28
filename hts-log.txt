@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 17:35:28 at http://demo2.themelexus.com/carutos/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo2.themelexus.com/carutos/ -O1 "C:\Users\dell\Desktop\barath\automa10" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:38:11	Error: 	"Bad Request" (400) at link demo2.themelexus.com/carutos/wp-admin/admin-ajax.php (from demo2.themelexus.com/carutos/)
+17:38:53	Error: 	Exit requested by shell or user
+17:39:10	Warning: 	Found for demo2.themelexus.com/carutos/checkout/
+17:39:10	Warning: 	File has moved from demo2.themelexus.com/carutos/checkout/ to http://demo2.themelexus.com/carutos/cart/
+17:39:12	Error: 	"Not Found" (404) at link demo2.themelexus.com/carutos/wp-content/themes/wpopalbootstrap/assets/css/assets/fonts/lexus-icon.eot (from demo2.themelexus.com/carutos/wp-content/cache/autoptimize/autoptimize_560495e1c27a65578593bece8ab18168.php)
+17:39:13	Warning: 	Moved Permanently for demo2.themelexus.com/carutos/?p=4549
+17:39:13	Warning: 	File has moved from demo2.themelexus.com/carutos/?p=4549 to http://demo2.themelexus.com/carutos/appointment/
+17:39:13	Warning: 	Moved Permanently for demo2.themelexus.com/carutos/?p=25
+17:39:13	Warning: 	File has moved from demo2.themelexus.com/carutos/?p=25 to http://demo2.themelexus.com/carutos/home-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 45 seconds : 123 links scanned, 117 files written (12782295 bytes overall) [4917018 bytes received at 21853 bytes/sec], 9962470 bytes transferred using HTTP compression in 73 files, ratio 20%, 7.7 requests per connection
+(3 errors, 6 warnings, 0 messages)
